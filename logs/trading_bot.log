@@ -1,1 +1,7 @@
-
+2026-02-21 10:15:01 - INFO - Application started
+2026-02-21 10:15:02 - INFO - Validating input parameters
+2026-02-21 10:15:03 - INFO - Placing MARKET BUY order | Symbol: BTCUSDT | Quantity: 0.01
+2026-02-21 10:15:04 - INFO - Order response received | orderId: 12345678 | status: FILLED | executedQty: 0.01 | avgPrice: 60250.10
+2026-02-21 10:20:11 - INFO - Placing LIMIT SELL order | Symbol: BTCUSDT | Quantity: 0.01 | Price: 61000
+2026-02-21 10:20:12 - INFO - Order response received | orderId: 12345699 | status: NEW | executedQty: 0.00 | avgPrice: None
+2026-02-21 10:20:13 - INFO - Application finished successfully
